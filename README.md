@@ -1,4 +1,4 @@
-# Doctoral Training in ED SMI Doctorate School of Cnam Institution
+# Doctorate Training at the ED SMI School of Cnam institution
 
 This repository indexes 13 courses in the 2026–2027 doctoral training schedule and links to concise guides describing each course. Dates, durations, locations and registration states follow the supplied schedule; detailed programme descriptions for P3S3, research ethics, AI ethics, Thesis in 180 Seconds, invention patents, Zotero, bibliometrics and the Cnam thesis process reflect the ADUM information provided. The P3S3 ADUM page lists 28 hours while the schedule records 25. For courses without a supplied syllabus, summaries stay close to the course title. 
 
