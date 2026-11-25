@@ -6,6 +6,8 @@ A three-hour, French-language online workshop for Cnam doctoral candidates. It i
 
 Participants install and configure Zotero and its word-processor add-on, practise collecting and enriching references, and insert citations and bibliographies into a document. The session also covers synchronising and backing up a Zotero library. Exercises and a step-by-step guide support continued use during thesis writing.
 
+By the end, participants should be able to manage and annotate a reference library, cite sources in Word, LibreOffice Writer or Google Docs, and synchronise and back up their library.
+
 ## Schedule and prerequisites
 
 | Detail | Information |

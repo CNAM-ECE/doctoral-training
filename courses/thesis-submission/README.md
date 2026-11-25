@@ -4,12 +4,12 @@ A three-hour, French-language online workshop for Cnam doctoral candidates on th
 
 ## What the course covers
 
-- Apply the Cnam thesis style sheet and check the document for compliance with deposit and archiving requirements.
-- Understand the national thesis circuit: reporting, archiving and dissemination, including the role of STAR and the CINES FACILE service.
+- Apply the Cnam thesis style sheet and check the document for compliance with deposit and archiving requirements, including CINES FACILE.
+- Understand the national thesis circuit: reporting, archiving and dissemination, and the role of thesis-management applications such as STAR.
 - Plan pre- and post-defence steps using a thesis timeline, and search thesis repositories such as theses.fr and Dart-Europe.
 - Compare dissemination options and understand doctoral candidates’ rights and responsibilities in publishing.
 
-The workshop combines instruction with practical exercises, including starting a personal style sheet, planning the thesis defence and exploring dissemination choices.
+The workshop combines instruction with practical exercises: interpreting and starting a style sheet, planning the thesis defence, exploring thesis repositories and comparing dissemination options.
 
 ## Schedule and prerequisites
 
