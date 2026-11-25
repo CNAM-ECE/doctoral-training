@@ -22,4 +22,4 @@ A concise guide to the doctoral courses in the 2026–2027 training schedule. Ea
 
 ## Notes on sources
 
-Course dates, durations, locations and registration states follow the supplied 2026–2027 schedule. The detailed ethics and AI-ethics descriptions are based on the ADUM programme text provided for this documentation. Where no syllabus was supplied, summaries are limited to the course title; consult ADUM for the current programme and registration details.
+Course dates, durations, locations and registration states follow the supplied 2026–2027 schedule. Detailed programme descriptions for research ethics, AI ethics, Thesis in 180 Seconds and invention patents are based on the ADUM text provided. Where no syllabus was supplied, summaries are limited to the course title; consult ADUM for the current programme and registration details.
