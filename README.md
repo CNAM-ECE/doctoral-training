@@ -6,7 +6,7 @@ A concise guide to the doctoral courses in the 2026–2027 training schedule. Ea
 
 | Course | Date(s) | Hours | Schedule status | Details |
 |---|---|---:|---|---|
-| P3S3 — Privacy, Protocols & Proofs | 1 Jun 2026 | 25 | Completed | [README](courses/p3s3/README.md) |
+| P3S3 — Privacy, Protocols & Proofs | 1–5 Jun 2026 | 25 h (schedule); 28 h (ADUM) | Completed | [README](courses/p3s3/README.md) |
 | Research ethics and scientific integrity | 25 Nov 2026 | 6 | Confirmed | [README](courses/research-ethics/README.md) |
 | Thesis in 180 Seconds coaching | 7 and 17 Dec 2026 | 6 | Confirmed | [README](courses/thesis-180s/README.md) |
 | Invention patents — INPI | 13–14 Jan 2027 | 4 | Confirmed | [README](courses/patents/README.md) |
@@ -22,4 +22,4 @@ A concise guide to the doctoral courses in the 2026–2027 training schedule. Ea
 
 ## Notes on sources
 
-Course dates, durations, locations and registration states follow the supplied 2026–2027 schedule. Detailed programme descriptions for research ethics, AI ethics, Thesis in 180 Seconds, invention patents, Zotero, bibliometrics and the Cnam thesis process are based on the ADUM text provided. Where no syllabus was supplied, summaries are limited to the course title; consult ADUM for the current programme and registration details.
+Course dates, durations, locations and registration states follow the supplied 2026–2027 schedule. Detailed programme descriptions for P3S3, research ethics, AI ethics, Thesis in 180 Seconds, invention patents, Zotero, bibliometrics and the Cnam thesis process are based on the ADUM text provided. For P3S3, ADUM lists 28 hours while the schedule records 25. Where no syllabus was supplied, summaries are limited to the course title; consult ADUM for the current programme and registration details.
