@@ -7,7 +7,7 @@ A concise guide to the doctoral courses in the 2026–2027 training schedule. Ea
 | Course | Date(s) | Hours | Schedule status | Details |
 |---|---|---:|---|---|
 | P3S3 — Privacy, Protocols & Proofs | 1 Jun 2026 | 25 | Completed | [README](courses/p3s3/README.md) |
-| Research ethics and scientific integrity | 25 Nov 2026; 27 May 2027 | 6 | Confirmed | [README](courses/research-ethics/README.md) |
+| Research ethics and scientific integrity | 25 Nov 2026 | 6 | Confirmed | [README](courses/research-ethics/README.md) |
 | Thesis in 180 Seconds coaching | 7 and 17 Dec 2026 | 6 | Confirmed | [README](courses/thesis-180s/README.md) |
 | Invention patents — INPI | 13–14 Jan 2027 | 4 | Confirmed | [README](courses/patents/README.md) |
 | J1A Cnam welcome seminar | 18 Jan 2027 | 4 | Confirmed | [README](courses/j1a-welcome/README.md) |

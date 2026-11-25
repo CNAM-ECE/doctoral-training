@@ -1,6 +1,6 @@
 # Research Ethics and Scientific Integrity
 
-A six-hour, French-language seminar on research ethics, scientific integrity and professional conduct. It is listed as mandatory for Abbé-Grégoire doctoral candidates. The supplied programme divides the subject into a research-ethics day and a separate AI-ethics day; the latter is documented in [Ethics of Artificial Intelligence](../ai-ethics/README.md).
+A six-hour, French-language seminar on research ethics, scientific integrity and professional conduct. It is listed as mandatory for Abbé-Grégoire doctoral candidates. The ADUM programme also lists an AI-ethics day on 27 May 2027, tracked separately in the schedule and documented in [Ethics of Artificial Intelligence](../ai-ethics/README.md).
 
 ## What the course covers
 
@@ -15,11 +15,11 @@ A six-hour, French-language seminar on research ethics, scientific integrity and
 
 | Detail | Information |
 |---|---|
-| Date | 25 November 2026; the supplied programme also lists a second day on 27 May 2027 |
+| Date | 25 November 2026 |
 | Duration | 6 hours in the schedule |
 | Language | French |
 | Venue | Cnam, Amphi Fourastié, Paris |
 | Schedule status | Confirmed; mandatory |
 | Assessment | Attendance (50%) and an ethics case study applied to the doctoral project (50%) |
 
-The ADUM programme lists separate morning and afternoon sessions on both dates. Verify the current timetable and registration details in ADUM.
+The ADUM programme lists separate morning and afternoon sessions. Verify the current timetable and registration details in ADUM.
