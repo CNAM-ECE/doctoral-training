@@ -1,8 +1,6 @@
-# Doctoral Training — Cnam ED SMI
+# Doctoral Training in ED SMI Doctorate School of Cnam Institution
 
-This repository indexes 13 courses in the 2026–2027 doctoral training schedule and links to concise guides describing each course. Dates, durations, locations and registration states follow the supplied schedule; detailed programme descriptions for P3S3, research ethics, AI ethics, Thesis in 180 Seconds, invention patents, Zotero, bibliometrics and the Cnam thesis process reflect the ADUM information provided. The P3S3 ADUM page lists 28 hours while the schedule records 25. For courses without a supplied syllabus, summaries stay close to the course title. Consult the linked schedule and ADUM records for current details.
-
-## Training record and accumulated hours
+This repository indexes 13 courses in the 2026–2027 doctoral training schedule and links to concise guides describing each course. Dates, durations, locations and registration states follow the supplied schedule; detailed programme descriptions for P3S3, research ethics, AI ethics, Thesis in 180 Seconds, invention patents, Zotero, bibliometrics and the Cnam thesis process reflect the ADUM information provided. The P3S3 ADUM page lists 28 hours while the schedule records 25. For courses without a supplied syllabus, summaries stay close to the course title. 
 
 The [doctoral training schedule and hours tracker](https://docs.google.com/spreadsheets/d/1Q3cOgzXp-fjgBAWXF3LVPOH4MeAEnVFNgJ9EkjaDLGA/edit?gid=759810514#gid=759810514) is the source of truth for course dates, registration status and cumulative hours. Its current summary records **104 hours counted** toward the doctoral training target: **54 scientific** and **50 professional** hours. It also lists **31 supplementary hours**, which are not counted toward that target. The schedule indicates that the minimum of 50 hours in each category has been met. These totals reflect the spreadsheet snapshot and may change as course status or credit recognition is updated.
 
@@ -24,17 +22,13 @@ The [doctoral training schedule and hours tracker](https://docs.google.com/sprea
 | Ethics of artificial intelligence | 27 May 2027 | 6 | Not registered | [Overview](courses/ai-ethics/README.md) |
 | Writing, depositing and publishing the Cnam thesis | 14 Jun 2027 | 3 | Confirmed | [Overview](courses/thesis-submission/README.md) |
 
-**Status** reflects the supplied schedule, not live registration data. *For P3S3, the spreadsheet records 25 hours and ADUM lists 28; the cumulative spreadsheet summary follows its recorded value.*
-
 ## Course and institutional links
 
-- [ADUM course record](https://adum.fr/phd/formation/catalogue.pl?mod=3805417&parent=moduleaccept) — course information and registration through the ADUM personal space.
+- [ADUM course record](https://adum.fr/phd/formation/catalogue.pl?mod=3805417&parent=moduleaccept) for the course information and registration through the ADUM personal space.
 - [ADUM research ethics programme](https://adum.fr/phd/formation/catalogue.pl?mod=3783710&parent=moduleaccept).
 - [Cnam — Conservatoire national des arts et métiers](https://www.cnam.fr/).
 - [Cnam doctoral school — Sciences des métiers de l’ingénieur (ED SMI)](https://ed-smi.cnam.fr/).
 - [Doctorat Cnam office](mailto:suivi.doctorants@cnam.fr).
-
-For confirmed course details and current registration instructions, consult the relevant ADUM record or contact the doctoral office.
 
 ## Usage and confidentiality
 
