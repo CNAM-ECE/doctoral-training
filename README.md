@@ -1,6 +1,6 @@
 # Doctoral Training — Cnam ED SMI
 
-A curated record of doctoral training completed, planned or requested during the 2026–2027 academic year. Each course has a concise guide to its subject matter, schedule and relevant preparation.
+This repository indexes 13 courses in the 2026–2027 doctoral training schedule and links to concise guides describing each course. Dates, durations, locations and registration states follow the supplied schedule; detailed programme descriptions for P3S3, research ethics, AI ethics, Thesis in 180 Seconds, invention patents, Zotero, bibliometrics and the Cnam thesis process reflect the ADUM information provided. The P3S3 ADUM page lists 28 hours while the schedule records 25. For courses without a supplied syllabus, summaries stay close to the course title. Consult the linked schedule and ADUM records for current details.
 
 ## Training record and accumulated hours
 
@@ -24,7 +24,7 @@ The [doctoral training schedule and hours tracker](https://docs.google.com/sprea
 | Ethics of artificial intelligence | 27 May 2027 | 6 | Not registered | [Overview](courses/ai-ethics/README.md) |
 | Writing, depositing and publishing the Cnam thesis | 14 Jun 2027 | 3 | Confirmed | [Overview](courses/thesis-submission/README.md) |
 
-**Status** reflects the supplied schedule, not live registration data. *For P3S3, the spreadsheet records 25 hours; the ADUM programme lists 28 hours. The spreadsheet total above follows the recorded schedule value.*
+**Status** reflects the supplied schedule, not live registration data. *For P3S3, the spreadsheet records 25 hours and ADUM lists 28; the cumulative spreadsheet summary follows its recorded value.*
 
 ## Course and institutional links
 
@@ -34,8 +34,12 @@ The [doctoral training schedule and hours tracker](https://docs.google.com/sprea
 - [Cnam doctoral school — Sciences des métiers de l’ingénieur (ED SMI)](https://ed-smi.cnam.fr/).
 - [Doctorat Cnam office](mailto:suivi.doctorants@cnam.fr).
 
-For confirmed course details and current registration instructions, consult the relevant ADUM record or contact the doctoral office. Course-specific summaries in this repository are indexed above.
+For confirmed course details and current registration instructions, consult the relevant ADUM record or contact the doctoral office.
 
 ## Usage and confidentiality
 
-Training materials referenced or shared here were distributed to participants for training purposes within the Cnam ED SMI doctoral school. Some resources may be subject to third-party copyright or confidentiality restrictions. Do not republish or redistribute original course materials outside that training context without the rights holder’s permission; follow any notices attached to individual resources.
+The original written guides in this repository are licensed under the [MIT License](LICENSE). That license does not extend to third-party course materials or linked content. Training materials referenced or shared here were distributed to participants for training purposes within the Cnam ED SMI doctoral school. Some resources may be subject to third-party copyright or confidentiality restrictions. Do not republish or redistribute original course materials outside that training context without the rights holder’s permission; follow notices attached to individual resources.
+
+## Acknowledgements
+
+Prepared as a reference for doctoral training at the Conservatoire national des arts et métiers (Cnam), within the École doctorale Sciences des métiers de l’ingénieur (ED SMI). We acknowledge the doctoral school, course coordinators, instructors and contributing institutions for their educational work and for the programme information summarised here.
