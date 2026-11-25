@@ -8,7 +8,7 @@ A six-hour, French-language seminar on research ethics, scientific integrity and
 - Research-ethics frameworks, including the Nuremberg Code, Declaration of Helsinki, national charter and European Code of Conduct for Research Integrity; roles of ethics review bodies.
 - Research involving people: applicable Jardé/RIPH and data-protection frameworks, participant information, informed consent and individual rights.
 - Responsible management, hosting, confidentiality and security of research data.
-- Research misconduct—fabrication, falsification, plagiarism and publication fraud—and conflicts of interest, probity and researcher responsibilities.
+- Research misconduct in the progress of the fabrication, falsification, plagiarism and publication fraud—and conflicts of interest, probity and researcher responsibilities.
 - Applying ethical reasoning to a case from the doctoral project.
 
 ## Schedule and assessment
@@ -21,4 +21,3 @@ A six-hour, French-language seminar on research ethics, scientific integrity and
 | Venue | Cnam, Amphi Fourastié, Paris |
 | Schedule status | Confirmed; mandatory |
 | Assessment | Attendance (50%) and an ethics case study applied to the doctoral project (50%) |
-
